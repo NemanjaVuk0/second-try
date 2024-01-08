@@ -1,3 +1,5 @@
 # uvezbavanje jednostavnih komandi git-a
 
-ovo je prva promena ovog fajla
+
+
+ovo je sada promena koja se nalazi u firstBRANCH-u
